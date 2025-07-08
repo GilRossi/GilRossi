@@ -36,8 +36,8 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 
 ### 📫 Como me encontrar
 
-* 📧 [gilrossiaguiar@gmail.com](mailto:gilrossiaguiar@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/gilrossi/)
+* 📧 [gilrossiaguiar@gmail.com](mailto:gil.rossi.aguiar@hotmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/gil-rossi-5814659b/)
 * 🚀 [Portfólio](https://github.com/gilrossiaguiar)
 * ☕ Sempre aberto para colaborações, freelas ou oportunidades!
 
@@ -50,6 +50,7 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 | [OCR de Encartes](https://github.com/gilrossiaguiar/parser-ocr)           | Python, FastAPI, Google Vision API | Extrai automaticamente promoções com feedback adaptativo          |
 | [Ice Candy Lovers](https://github.com/gilrossiaguiar/ice-candy-lovers)    | Java, Spring Boot, MySQL, AWS      | Plataforma de delivery sob demanda para sorvetes                  |
 | [Painel de Aprendizado OCR](https://github.com/gilrossiaguiar/painel-ocr) | HTML, JS, FastAPI                  | Interface para revisar resultados do parser com feedback contínuo |
+| [Estudos avançados](https://github.com/GilRossi/springEstudosAvancados)   |Java, Spring, Kafka, SOLID          |Estudos do conceito SOLID com aplicação de multithreading          |
 
 ---
 
