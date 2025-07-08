@@ -31,6 +31,8 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 * Arquitetura de Software
 * Engenharia de Dados e ML aplicado a sistemas
 * DevOps e automações com GitHub Actions
+* SOLID conceitos
+* Design Patterns
 
 ---
 
