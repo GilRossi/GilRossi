@@ -38,7 +38,7 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 
 * 📧 [gil.rossi.aguiar@live.com](mailto:gil.rossi.aguiar@hotmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/gil-rossi-5814659b/)
-* 🚀 [Portfólio](https://github.com/gilrossiaguiar)
+* 🚀 [Portfólio](https://github.com/GilRossi)
 * ☕ Sempre aberto para colaborações, freelas ou oportunidades!
 
 ---
