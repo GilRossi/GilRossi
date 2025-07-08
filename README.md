@@ -50,7 +50,7 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 | Projeto                                                                   | Tecnologias                        | Descrição                                                         |
 | ------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | [OCR de Encartes](https://github.com/gilrossiaguiar/parser-ocr)           | Python, FastAPI, Google Vision API | Extrai automaticamente promoções com feedback adaptativo          |
-| [Ice Candy Lovers](https://github.com/gilrossiaguiar/ice-candy-lovers)    | Java, Spring Boot, MySQL, AWS      | Plataforma de delivery sob demanda para sorvetes                  |
+| [Ice Candy Lovers](https://github.com/gilrossiaguiar/ice-candy-lovers)    | Java, Spring Boot, Postgres, VPS   | Plataforma de delivery sob demanda para sorvetes                  |
 | [Painel de Aprendizado OCR](https://github.com/gilrossiaguiar/painel-ocr) | HTML, JS, FastAPI                  | Interface para revisar resultados do parser com feedback contínuo |
 | [Estudos avançados](https://github.com/GilRossi/springEstudosAvancados)   |Java, Spring, Kafka, SOLID, Docker  |Estudos do conceito SOLID com aplicação de multithreading          |
 
