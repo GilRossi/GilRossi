@@ -53,6 +53,7 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 | [Ice Candy Lovers](https://github.com/gilrossiaguiar/ice-candy-lovers)    | Java, Spring Boot, Postgres, VPS   | Plataforma de delivery sob demanda para sorvetes                  |
 | [Painel de Aprendizado OCR](https://github.com/gilrossiaguiar/painel-ocr) | HTML, JS, FastAPI                  | Interface para revisar resultados do parser com feedback contínuo |
 | [Estudos avançados](https://github.com/GilRossi/springEstudosAvancados)   |Java, Spring, Kafka, SOLID, Docker  |Estudos do conceito SOLID com aplicação de multithreading          |
+| [Calculadora com e sem Interface](https://github.com/GilRossi/calculadora)|Java, Swing                         |Calculadora básica sem interace ecom interface grágica usando o Swing|
 
 ---
 
