@@ -50,10 +50,10 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 | Projeto                                                                   | Tecnologias                        | Descrição                                                         |
 | ------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | [OCR de Encartes](https://github.com/gilrossiaguiar/parser-ocr)           | Python, FastAPI, Google Vision API | Extrai automaticamente promoções com feedback adaptativo          |
-| [Ice Candy Lovers](https://github.com/gilrossiaguiar/ice-candy-lovers)    | Java, Spring Boot, Postgres, VPS   | Plataforma de delivery sob demanda para sorvetes                  |
+| [Ice Candy Lovers](https://github.com/gilrossiaguiar/ice-candy-lovers)    | Java 21, Spring Boot, Postgres, VPS   | Plataforma de delivery sob demanda para sorvetes                  |
 | [Painel de Aprendizado OCR](https://github.com/gilrossiaguiar/painel-ocr) | HTML, JS, FastAPI                  | Interface para revisar resultados do parser com feedback contínuo |
-| [Estudos avançados](https://github.com/GilRossi/springEstudosAvancados)   | Java, Spring, Kafka, SOLID, Docker  | Estudos do conceito SOLID com aplicação de multithreading          |
-| [Calculadora com e sem Interface](https://github.com/GilRossi/calculadora)| Java, Swing                         | Calculadora básica sem interace e com interface gráfica usando o Swing|
+| [Estudos avançados](https://github.com/GilRossi/springEstudosAvancados)   | Java 21, Spring, Kafka, SOLID, Docker  | Estudos do conceito SOLID com aplicação de multithreading          |
+| [Calculadora com e sem Interface](https://github.com/GilRossi/calculadora)| Java 21, Swing, Desing Partners, SOLID | Calculadora básica sem interace e com interface gráfica usando o Swing|
 | [Jogo para Estudos de Partitura no violão](https://github.com/GilRossi/JogoPartituraSwing)| Java, Swing, Biblioteca Math | Jogo para estudos de patitura para violão, baseado no livro do "Henrique Pinto Volume 1 Para Iniciantes" e utilização de Design Partners, SOLID e CLEAN CODE para estudos|
 
 ---
