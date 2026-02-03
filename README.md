@@ -60,4 +60,4 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 
 ### ✨ Sobre mim
 
-Sou movido por desafios, aprendizado contínuo e projetos que geram valor real. Se você está buscando alguém que una **visão estratégica + código limpo + entregas consistentes**, bora conversar! 😉
+Sou movido por desafios, aprendizado contínuo e projetos que geram valor real. Se você está buscando alguém que uma **visão estratégica + código limpo + entregas consistentes**, bora conversar! 😉
