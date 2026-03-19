@@ -51,7 +51,7 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 | Projeto                                                                   | Tecnologias                        | Descrição                                                         |
 | ------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------- |
 | [OCR de Encartes](https://github.com/gilrossiaguiar/parser-ocr)           | Python, FastAPI, Google Vision API | Extrai automaticamente promoções com feedback adaptativo          |
-| [Ice Candy Lovers](https://github.com/GilRossi/projeto-icecandylovers)    | Java 21, Spring Boot, Postgres, VPS   | Plataforma de delivery sob demanda para sorvetes                  |
+| [Ice Candy Lovers](https://github.com/GilRossi/-icecandylovers-clean)    | Java 21, Spring Boot, Postgres, VPS   | Plataforma de delivery sob demanda para sorvetes                  |
 | [Painel de Aprendizado OCR](https://github.com/gilrossiaguiar/painel-ocr) | HTML, JS, FastAPI                  | Interface para revisar resultados do parser com feedback contínuo |
 | [Estudos avançados](https://github.com/GilRossi/springEstudosAvancados)   | Java 21, Spring, Kafka, SOLID, Docker  | Estudos do conceito SOLID com aplicação de multithreading          |
 | [Calculadora com e sem Interface](https://github.com/GilRossi/calculadora)| Java 21, Swing, Desing Partners, SOLID | Calculadora básica sem interface e com interface gráfica usando o Swing|
