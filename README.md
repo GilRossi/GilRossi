@@ -56,6 +56,7 @@ Sou apaixonado por transformar ideias em soluções digitais escaláveis. Com ex
 | [Calculadora com e sem Interface](https://github.com/GilRossi/calculadora)| Java 21, Swing, Desing Partners, SOLID | Calculadora básica sem interface e com interface gráfica usando o Swing|
 | [Controle de despesas](https://github.com/GilRossi/despesas)| Java 17, Srping Boot, Thymeleaf, PostgreSQL, Docker | Gerenciamento de despesas pessoais com docker e boas práticas|
 | [Simulação de um semáforo](https://github.com/GilRossi/Semaforo)| Java 21, State, Multithreading, Clean Code, SOLID, State Pattern e Interface Pattern| A ideia é demonstrar conceitos de orientação a objetos e aplicar o padrão de projeto State, que organiza os diferentes estados do semáforo em classes independentes.|
+| [Gerenciamento de veículos](https://github.com/GilRossi/veiculo)| Java 21, Docker, Multithreading, Swagger, JUnit| API RESTful desenvolvida em Java com Spring Boot para gerenciamento de veículos.|
 | [Jogo para Estudos de Partitura no violão](https://github.com/GilRossi/JogoPartituraSwing)| Java, Swing, Biblioteca Math | Jogo para estudos de patitura para violão, baseado no livro do "Henrique Pinto Volume 1 Para Iniciantes" e utilização de Design Partners, SOLID e CLEAN CODE para estudos|
 
 ---
