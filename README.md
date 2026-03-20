@@ -1,11 +1,11 @@
 <h1 align="center">Gil Rossi</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Backend Java • Engenheiro de Software • APIs, Cloud e Automação com IA</strong>
+  <strong>Desenvolvedor Backend Java • Engenheiro de Software • APIs, Cloud, Linux e Automação com IA</strong>
 </p>
 
 <p align="center">
-  Construo soluções escaláveis com Java, Spring Boot, banco de dados, microsserviços e integrações em nuvem.
+  Construo soluções escaláveis com Java, Spring Boot, banco de dados, microsserviços, mensageria e integrações em nuvem.
   <br />
   Também exploro IA aplicada ao desenvolvimento para acelerar entregas, automatizar fluxos e criar produtos mais inteligentes.
 </p>
@@ -26,10 +26,13 @@
 
 ## Sobre mim
 
-Sou apaixonado por transformar ideias em software útil, evolutivo e bem estruturado.  
-Atuo principalmente com **Java e Spring Boot**, desenvolvendo **APIs REST**, aplicações web, integrações com banco de dados, microsserviços e soluções em nuvem.
+Sou apaixonado por transformar ideias em software útil, evolutivo e bem estruturado.
 
-Além do backend tradicional, venho aprofundando o uso de **IA aplicada ao desenvolvimento**, combinando agentes, automações e LLMs para melhorar produtividade, apoiar tomada de decisão e construir produtos com mais inteligência.
+Atuo principalmente com **Java e Spring Boot**, desenvolvendo **APIs REST**, aplicações web, integrações com banco de dados, microsserviços, mensageria e soluções em nuvem.
+
+Tenho experiência com ambientes como **AWS**, **Google Cloud** e **Hostinger**, além de forte familiaridade com **Docker**, **Linux** e **Ubuntu**, que fazem parte do meu dia a dia de desenvolvimento e infraestrutura.
+
+Também venho aprofundando o uso de **IA aplicada ao desenvolvimento**, combinando agentes, automações e LLMs para melhorar produtividade, apoiar tomada de decisão e construir produtos com mais inteligência.
 
 Meu foco é unir:
 
@@ -48,30 +51,52 @@ Meu foco é unir:
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
 </p>
 
 ### Frontend e interface
 <p>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" title="Thymeleaf" />
 </p>
 
 ### Banco de dados e persistência
 <p>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
+  <img src="https://img.shields.io/badge/H2-Database-1E88E5?style=for-the-badge" title="H2 Database" />
 </p>
 
-### Cloud, DevOps e ferramentas
+### Mensageria e processamento assíncrono
 <p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" />
+  <img src="https://img.shields.io/badge/AWS%20SQS-Queue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS SQS" />
+</p>
+
+### Cloud, infraestrutura e sistemas
+<p>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" title="Hostinger" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" />
+</p>
+
+### Qualidade, versionamento e automação
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" />
 </p>
 
 ---
@@ -79,16 +104,17 @@ Meu foco é unir:
 ## Projetos em destaque
 
 ### 🍦 [Ice Candy Lovers](https://github.com/GilRossi/-icecandylovers-clean)
-**Java 21 • Spring Boot • Spring Security • PostgreSQL • Thymeleaf • Bootstrap • Docker**
+**Java 21 • Spring Boot • Spring Security • PostgreSQL • React • Next.js • AWS • Hostinger • Docker • Nginx**
 
-Plataforma completa para gestão de produção e vendas de geladinhos gourmet.
+Plataforma completa para gestão de produção, estoque e vendas de geladinhos gourmet, construída com foco em organização arquitetural, segurança e escalabilidade.
 
 **Principais pontos**
-- autenticação e controle de acesso por perfis
-- gestão de estoque, produção e vendas
-- relatórios analíticos e indicadores
-- interface web responsiva
-- estrutura preparada para evolução contínua
+- autenticação e controle de acesso com JWT e proteção de rotas
+- gestão de produtos, ingredientes, estoque, produção e vendas
+- dashboard com indicadores, alertas e visão operacional
+- frontend moderno com áreas públicas e protegidas
+- deploy em **AWS** com migração para **VPS Hostinger** com **Docker** e **Nginx**
+- projeto estruturado para uso real e evolução contínua
 
 ---
 
@@ -107,12 +133,12 @@ Sistema de OCR para leitura de encartes promocionais com revisão manual e melho
 ---
 
 ### ☕ [Estudos Spring Avançados](https://github.com/GilRossi/springEstudosAvancados)
-**Java 21 • Spring Boot • Kafka • RabbitMQ • Redis • JWT • Flyway • PostgreSQL • Testcontainers**
+**Java 21 • Spring Boot • Kafka • RabbitMQ • Redis • JWT • Flyway • PostgreSQL • Testcontainers • Docker**
 
 Laboratório técnico focado em arquitetura backend moderna com Java.
 
 **Principais pontos**
-- mensageria com Kafka e RabbitMQ
+- mensageria com **Kafka** e **RabbitMQ**
 - segurança com Spring Security e JWT
 - cache com Redis
 - migrations com Flyway
@@ -146,6 +172,19 @@ Aplicação web MVC para gerenciamento de despesas pessoais.
 - formatação monetária no padrão brasileiro
 - interface objetiva
 - deploy com Docker Compose
+
+---
+
+## Experiência técnica que aplico no dia a dia
+
+- desenvolvimento backend com **Java**, **Spring Boot** e arquitetura orientada a boas práticas
+- criação de **APIs RESTful** e integrações entre serviços
+- uso de **PostgreSQL**, **MySQL** e **H2**
+- mensageria com **AWS SQS**, **RabbitMQ** e **Kafka**
+- conteinerização, padronização de ambiente e deploy com **Docker**
+- atuação em **Linux** e **Ubuntu**, tanto em desenvolvimento quanto em infraestrutura
+- uso de **AWS**, **Google Cloud**, **Hostinger** e servidores VPS
+- automação com **GitHub Actions**, **Jenkins** e workflows integrados
 
 ---
 
@@ -203,6 +242,6 @@ Tenho explorado ativamente ferramentas e fluxos de **IA aplicada ao desenvolvime
 
 Sou movido por desafios, aprendizado contínuo e projetos que geram valor real.
 
-Busco construir software com **qualidade técnica**, **boa estrutura** e **capacidade de evolução**, usando tecnologia para resolver problemas de forma prática e inteligente.
+Busco construir software com **qualidade técnica**, **boa estrutura** e **capacidade de evolução**, usando tecnologia para resolver problemas de forma prática, moderna e inteligente.
 
-Se quiser trocar ideias sobre backend, arquitetura, automação ou oportunidades, será um prazer conversar.
+Se quiser trocar ideias sobre backend, arquitetura, cloud, Linux, automação ou oportunidades, será um prazer conversar.
